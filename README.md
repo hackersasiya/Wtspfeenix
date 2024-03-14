@@ -176,7 +176,7 @@ NOW Deploy👇
 ## DEPLOY IN KOYEB    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
 ## `OWNER` 
-<a href="https://github.com/Xcelsama"><img src="https://github.com/Xcelsama.png" width="250" height="250" alt="Xcelsama"/></a>
+<a href="https://github.com/Wtspfeenix"><img src="https://github.com/Xcelsama.png" width="250" height="250" alt="Feenix"/></a>
 
    
 
