@@ -1,4 +1,4 @@
-STAR-bot Termux-Hosting-Guide
+FEENIX-bot Termux-Hosting-Guide
 Prerequisites
 Git
 Node.js
@@ -8,8 +8,8 @@ webP
 🚀 Installation
 Run the following commands to clone the repo (Use your fork)
 
-> git clone  https://github.com/Xcelsama/STAR-MD-V2
-> cd STAR-MD-V2
+> git clone  https://github.com/Wtspfeenix/FEENIX-MD-V2
+> cd FEENIX-MD-V2
 Run this following command to install the dependencies
 
 > npm install
